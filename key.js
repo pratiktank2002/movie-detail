@@ -1,3 +1,4 @@
+// Goto OMDB API and get your key
 //Enter api key that recieved on your email here
 
-key = "8fc6981a";
+key = "YOUR_API_KEY";
